@@ -1,0 +1,97 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 19,
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 30,
+    "sha256": "22bc478fc0eb97818e8c2efd9a6c8f9dce55490bdd8074a3f2b6b8653c5c12d5"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1119,
+    "sha256": "d1953a83628667f198c964d74eada6838c429af1422080772abd3441e1579c71"
+  },
+  {
+    "path": "snake/__init__.py",
+    "bytes": 151,
+    "sha256": "579bac28d0d2d6fdfde36ec3d23f01468d3710e70252e163b7931f6362d7a010"
+  },
+  {
+    "path": "snake/cli.py",
+    "bytes": 4607,
+    "sha256": "12bdc7ef36048fed1d269a92dfaa0cceb10e5f2c18576e0d1b707e837c5fb121"
+  },
+  {
+    "path": "snake/game.py",
+    "bytes": 3661,
+    "sha256": "37a3de309e7e7387083e5edb9a768dd9a2cc3e79025fc1249b56bf54b3736ff5"
+  },
+  {
+    "path": "snake/main.py",
+    "bytes": 1282,
+    "sha256": "d5d9a09b3d8e6419c619749b3eade5acada5311084aab5b2645ada30ef34c539"
+  },
+  {
+    "path": "snake/README.md",
+    "bytes": 1656,
+    "sha256": "c17400fd58491a2668c7243cfdc73fbeb31beeea946cb5459ba04c681da0455f"
+  },
+  {
+    "path": "snake/SKILL.md",
+    "bytes": 1419,
+    "sha256": "2cb6e6e3522b9ef61c4c96bf7e70d86c3a9842579c2d017ef9e4d1aca7561df2"
+  },
+  {
+    "path": "snake/tests/test_cli.py",
+    "bytes": 1697,
+    "sha256": "74678c5a3a93d5eed3ac2f572b015df52012b82b1c92300a77c211cf06927a9e"
+  },
+  {
+    "path": "snake/tests/test_game.py",
+    "bytes": 2782,
+    "sha256": "8446c6b3b7e5e5048fc4cfffa5e0d6c041c7d2d1b9fa09634a226ddf16ef8a27"
+  },
+  {
+    "path": "实验结果/01_单元测试.txt",
+    "bytes": 1790,
+    "sha256": "93cdd7a114159c4a01dd44863b68bc4406e40e8e68d32e0f4776614971ff0be3"
+  },
+  {
+    "path": "实验结果/02_固定演示.txt",
+    "bytes": 235,
+    "sha256": "856fc40664b33a5a20f72c35e4eede53037ce8add53d17484e42c29e6f47c9f9"
+  },
+  {
+    "path": "实验结果/03_模块入口.txt",
+    "bytes": 235,
+    "sha256": "81511a3190b41aed137b4a4c342806d2d23d66e2f149aa628a40d59101e2c431"
+  },
+  {
+    "path": "实验结果/04_独立目录入口.txt",
+    "bytes": 229,
+    "sha256": "c43410ce58fd33d29a47b485ecd37a54f265e1feaabc5080d7ca6f97998b5e18"
+  },
+  {
+    "path": "实验结果/05_编译检查.txt",
+    "bytes": 424,
+    "sha256": "374e4f8d60e7b833d8b1a56b1e3575b79ec57d6931535491f422f0a6a4ce0c8c"
+  },
+  {
+    "path": "实验结果/历史PTY交互摘要.txt",
+    "bytes": 949,
+    "sha256": "279c3fa9fb8709d2a681622cdba573fa9900521aa7104697374b1fa98ce965e2"
+  },
+  {
+    "path": "实验结果/实验结果汇总.json",
+    "bytes": 1027,
+    "sha256": "aafc7c66cb4e64b9294b25a0c25f91cc6038dcb69a30223117e0fb070cbcb0ec"
+  },
+  {
+    "path": "报告/任务三实验报告.md",
+    "bytes": 6200,
+    "sha256": "1a7ec17e46f126d7655677b2d72e399f02ce3f0357b430aa0a651dec697b4235"
+  }
+]

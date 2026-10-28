@@ -1,0 +1,25 @@
+执行时间（Asia/Shanghai）: 2026-10-28T10:57:49+08:00
+命令: python -m unittest discover -s snake/tests -v
+退出码: 0
+
+--- stdout（原始输出）---
+
+--- stderr（原始输出）---
+test_demo_is_noninteractive_and_reports_result (test_cli.CliTests.test_demo_is_noninteractive_and_reports_result) ... ok
+test_interactive_entry_does_not_print_a_duplicate_initial_frame (test_cli.CliTests.test_interactive_entry_does_not_print_a_duplicate_initial_frame) ... ok
+test_interactive_entry_returns_zero_after_a_scored_quit (test_cli.CliTests.test_interactive_entry_returns_zero_after_a_scored_quit) ... ok
+test_key_to_direction_accepts_lower_and_uppercase (test_cli.CliTests.test_key_to_direction_accepts_lower_and_uppercase) ... ok
+test_render_shows_score_and_controls (test_cli.CliTests.test_render_shows_score_and_controls) ... ok
+test_eating_food_grows_and_scores (test_game.GameStateTests.test_eating_food_grows_and_scores) ... ok
+test_full_board_finishes_game (test_game.GameStateTests.test_full_board_finishes_game) ... ok
+test_initial_full_board_is_already_won (test_game.GameStateTests.test_initial_full_board_is_already_won) ... ok
+test_initial_state_has_three_segment_snake_and_food (test_game.GameStateTests.test_initial_state_has_three_segment_snake_and_food) ... ok
+test_reverse_direction_is_ignored (test_game.GameStateTests.test_reverse_direction_is_ignored) ... ok
+test_self_collision_ends_game (test_game.GameStateTests.test_self_collision_ends_game) ... ok
+test_step_moves_snake_in_current_direction (test_game.GameStateTests.test_step_moves_snake_in_current_direction) ... ok
+test_wall_collision_ends_game (test_game.GameStateTests.test_wall_collision_ends_game) ... ok
+
+----------------------------------------------------------------------
+Ran 13 tests in 0.001s
+
+OK

@@ -1,0 +1,8 @@
+执行时间（Asia/Shanghai）: 2026-10-28T10:57:49+08:00
+命令: python -m snake.main --demo --seed 7
+退出码: 0
+
+--- stdout（原始输出）---
+DEMO seed=7 steps=4 score=1 length=4 status=playing
+
+--- stderr（原始输出）---
