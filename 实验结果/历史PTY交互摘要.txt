@@ -1,0 +1,17 @@
+历史 PTY 交互摘要（依据本会话已有工具返回整理，非完整逐字日志）
+
+执行主体：AI；方式：真实 Python 进程 + 伪终端输入。
+
+1. python snake/main.py --width 12 --height 6 --seed 7
+自动移动并吃食物，显示 Score: 1  Length: 4；最终撞墙显示 GAME OVER。
+此轮在退出码修复前，退出码为 1。
+
+2. python snake/main.py --width 200 --height 4 --seed 7
+发送 s，终端蛇头转向下方；随后碰撞得到 GAME OVER。
+
+3. python snake/main.py --width 200 --height 20 --seed 3743
+修复前：显示 Score: 1  Length: 4  Status: PLAYING 后发 q，退出码 1。
+修复后：同一命令、得分后发 q，退出码 0，返回中含光标恢复序列。
+
+200 列棋盘用于延长工具调用间的交互时间，超出常规终端宽度时会折行，不能据此宣称默认窗口布局已逐项目视验证。
+自撞是单元测试证据；Ctrl+C 正常退出码未独立实证。

@@ -1,0 +1,242 @@
+[
+  {
+    "path": ".gitattributes",
+    "bytes": 19,
+    "sha256": "d60f352d0db1404c70afb4bb8b2ca3fd1c610572aa40720e8a0b7baa7885418c"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 30,
+    "sha256": "22bc478fc0eb97818e8c2efd9a6c8f9dce55490bdd8074a3f2b6b8653c5c12d5"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1169,
+    "sha256": "d2d3227546490a738520cbaccfb94d09e75a7dc9d2fbcdefd1d7a8b9707daba3"
+  },
+  {
+    "path": "snake/__init__.py",
+    "bytes": 151,
+    "sha256": "579bac28d0d2d6fdfde36ec3d23f01468d3710e70252e163b7931f6362d7a010"
+  },
+  {
+    "path": "snake/cli.py",
+    "bytes": 7456,
+    "sha256": "86eb90fe0cc2a04435f5faa847efb2ea4c2cc7bafe129557578c35677fa11daf"
+  },
+  {
+    "path": "snake/game.py",
+    "bytes": 3661,
+    "sha256": "37a3de309e7e7387083e5edb9a768dd9a2cc3e79025fc1249b56bf54b3736ff5"
+  },
+  {
+    "path": "snake/main.py",
+    "bytes": 1282,
+    "sha256": "d5d9a09b3d8e6419c619749b3eade5acada5311084aab5b2645ada30ef34c539"
+  },
+  {
+    "path": "snake/README.md",
+    "bytes": 1630,
+    "sha256": "54ec0e5008466207ae44f7257f2261cda239e029bd412ffc270667af6020a9e0"
+  },
+  {
+    "path": "snake/SKILL.md",
+    "bytes": 1419,
+    "sha256": "2cb6e6e3522b9ef61c4c96bf7e70d86c3a9842579c2d017ef9e4d1aca7561df2"
+  },
+  {
+    "path": "snake/tests/test_cli.py",
+    "bytes": 1697,
+    "sha256": "74678c5a3a93d5eed3ac2f572b015df52012b82b1c92300a77c211cf06927a9e"
+  },
+  {
+    "path": "snake/tests/test_game.py",
+    "bytes": 2782,
+    "sha256": "8446c6b3b7e5e5048fc4cfffa5e0d6c041c7d2d1b9fa09634a226ddf16ef8a27"
+  },
+  {
+    "path": "snake/tests/test_play_controls.py",
+    "bytes": 2333,
+    "sha256": "931f20e9de37b085152be63f4b66aaff38f66e58a0d1d1aa5c34666d31c0e107"
+  },
+  {
+    "path": "实验结果/01_单元测试.txt",
+    "bytes": 2464,
+    "sha256": "00564ba3dedcae9e296c8cb08f1ad1c0ef4087826360d529ad8e3490bc5254e7"
+  },
+  {
+    "path": "实验结果/02_固定演示.txt",
+    "bytes": 235,
+    "sha256": "73105fda524312a8ffc60ea6bc6be28604c38a8a2a991bd4a12a6918e71b1266"
+  },
+  {
+    "path": "实验结果/03_模块入口.txt",
+    "bytes": 235,
+    "sha256": "03f12cf0f235b44cb88ca099e9955cfe1926163c61b42172bbd8761254680fd0"
+  },
+  {
+    "path": "实验结果/04_独立目录入口.txt",
+    "bytes": 229,
+    "sha256": "54e9697233dc6912a44707b29946f0e42b0389139d69c33724b803de41b518d3"
+  },
+  {
+    "path": "实验结果/05_编译检查.txt",
+    "bytes": 218,
+    "sha256": "3fd5d4692b9f181985ab54cddf329af319e35fb86ec7dead6ec56f30581880a8"
+  },
+  {
+    "path": "实验结果/历史PTY交互摘要.txt",
+    "bytes": 949,
+    "sha256": "279c3fa9fb8709d2a681622cdba573fa9900521aa7104697374b1fa98ce965e2"
+  },
+  {
+    "path": "实验结果/实验结果汇总.json",
+    "bytes": 1013,
+    "sha256": "c4c7ee25fbb9d95dde86db45269384cbea1226768517fad8d41cdc9e94db34e4"
+  },
+  {
+    "path": "实验结果/游玩截图/01_原版结束画面重复棋盘.jpg",
+    "bytes": 32456,
+    "sha256": "373436b14eda67903d391399060337a9bf82a79eb81ca14dd9b2d245554815b0"
+  },
+  {
+    "path": "实验结果/游玩截图/02_中文输入法拦截P键.jpg",
+    "bytes": 27424,
+    "sha256": "d43882f9f2bb6b317ba0ecff73dc734bcd879c41eedcf0b446053a32104b1c4a"
+  },
+  {
+    "path": "实验结果/游玩截图/03_原版已暂停但仍显示PLAYING.jpg",
+    "bytes": 30109,
+    "sha256": "f123537c8b7daea45396db7547d67d6acc97d4afd719930d57136f0cda777bad"
+  },
+  {
+    "path": "实验结果/游玩截图/04_修复后等待开局且无控制字符.jpg",
+    "bytes": 28357,
+    "sha256": "805a643ae67a10d8bc548d63165f4ba77646dc86ccb41e943c7646c8d946d19f"
+  },
+  {
+    "path": "实验结果/游玩截图/05_修复后撞墙仅保留单一棋盘.jpg",
+    "bytes": 27324,
+    "sha256": "a6af9b3fa5634a78ec88b0c89ea5a197ae5d2cdcb69c1fc69c553aa8ecaf160c"
+  },
+  {
+    "path": "实验结果/游玩截图/06_撞墙后按回车重新开局.jpg",
+    "bytes": 28357,
+    "sha256": "08d33895d6da91277d07755b1faf071ec825ff3036cf22e3a0caefd27554f43e"
+  },
+  {
+    "path": "实验结果/游玩截图/07_真实按减号调速到每秒两格.jpg",
+    "bytes": 28353,
+    "sha256": "3e1bd82c9ced752dbd420e01f8c295ca557fb66585cd247b8b05654941bfb14d"
+  },
+  {
+    "path": "实验结果/游玩截图/08_低速游玩后的撞墙结果.jpg",
+    "bytes": 27321,
+    "sha256": "4ed3993aed830c7154fefb823f458101f2f8de055cda15777140096df55cb82e"
+  },
+  {
+    "path": "实验结果/游玩截图/09_连续游玩开局前调为低速.jpg",
+    "bytes": 33612,
+    "sha256": "5334f93b0bca0ca40d7cb96b7afcb99a0b02e967d5cf3fcd35204436a3cb8a49"
+  },
+  {
+    "path": "实验结果/游玩截图/10_真实开局吃到食物分数1蛇长4.jpg",
+    "bytes": 33537,
+    "sha256": "47f550f923d800bc6fcf3cfbe638dc35f419937c11cb2f8805a62bb86accf895"
+  },
+  {
+    "path": "实验结果/游玩截图/11_得分后空格暂停显示PAUSED.jpg",
+    "bytes": 33826,
+    "sha256": "2befb83e6647edc82f09dbeb9abde2587ddf588f9378ebdf69fd634c1c0c04cb"
+  },
+  {
+    "path": "实验结果/游玩截图/12_暂停等待后蛇身位置保持不变.jpg",
+    "bytes": 33826,
+    "sha256": "2befb83e6647edc82f09dbeb9abde2587ddf588f9378ebdf69fd634c1c0c04cb"
+  },
+  {
+    "path": "实验结果/游玩截图/13_恢复后真实向上转弯移动.jpg",
+    "bytes": 33532,
+    "sha256": "22bbd3247e767223191d1675c8d365afa25963685c45ee19c806c4bcff7c9d81"
+  },
+  {
+    "path": "实验结果/游玩截图/14_转弯后再次成功暂停.jpg",
+    "bytes": 33814,
+    "sha256": "23446d5fed475986929074d00567b948afe1c956f57f8de369f806a3f862fc9d"
+  },
+  {
+    "path": "实验结果/游玩截图/15_暂停时检查完整操作提示.jpg",
+    "bytes": 33741,
+    "sha256": "01c584bae374ec6be0a456278ff11f6ccd96a65deceaed69aa124d486e59a300"
+  },
+  {
+    "path": "实验结果/游玩截图/16_真实向左转弯后水平移动.jpg",
+    "bytes": 33438,
+    "sha256": "daf2d599d999f5db92cc5d3fea77b6812708812bdcdbeafbd49273c40eed1134"
+  },
+  {
+    "path": "实验结果/游玩截图/17_第二次转弯后再次暂停.jpg",
+    "bytes": 33715,
+    "sha256": "0cab788ab1e860e7870ab951a3962b1d7cad3c1d9e445a50c89f0117ef46c16f"
+  },
+  {
+    "path": "实验结果/游玩截图/18_按加速键后速度显示即时变化.jpg",
+    "bytes": 33715,
+    "sha256": "b42dcf0c8e07923b63fab09f0c6383b4dbaf0f68c0f9c27198a09b1c5214f62c"
+  },
+  {
+    "path": "实验结果/游玩截图/19_得分后Esc正常退出返回0.jpg",
+    "bytes": 33862,
+    "sha256": "f0f465ae8fbb5c2f5402c35016876a0925eb2ed8f6a74968bd39711a2d673469"
+  },
+  {
+    "path": "实验结果/游玩截图/20_输入环境按P的实际画面.jpg",
+    "bytes": 32668,
+    "sha256": "260811859f9a5cdfeb490ea52586877716a2bd143b5dfd79cc35f7b9b483e855"
+  },
+  {
+    "path": "实验结果/游玩截图/21_中文输入状态下空格正常开始.jpg",
+    "bytes": 28497,
+    "sha256": "385480b10eb56281200ccd5b57c50d71ee00f715579c06428d20422caea4866d"
+  },
+  {
+    "path": "实验结果/游玩截图/22_中文输入状态下空格成功暂停.jpg",
+    "bytes": 28791,
+    "sha256": "2f6281d7d11b22e105d7a4323484d87d5d31721f8657ecfe2e36397596ab452a"
+  },
+  {
+    "path": "实验结果/游玩截图/23_中文输入状态下方向键真实转向.jpg",
+    "bytes": 28510,
+    "sha256": "0b8652f21b0fab913430ce1f557c7c735bc44bdca6b533cca96919dbee69d857"
+  },
+  {
+    "path": "实验结果/游玩截图/24_中文输入状态下转向后成功暂停.jpg",
+    "bytes": 28782,
+    "sha256": "40cd4634e21a954e82c9db7f45903fb13105d16780f5eafe67cd74f681a88e98"
+  },
+  {
+    "path": "实验结果/游玩截图/25_中文输入状态下Esc正常退出.jpg",
+    "bytes": 32281,
+    "sha256": "acb88753dc855b6fe5a129e74c1c77964514787bf4ae22a62cc3e2f11a58954b"
+  },
+  {
+    "path": "实验结果/窗口游玩记录.json",
+    "bytes": 7323,
+    "sha256": "282b74c81d6bdfe4f3607b02a1e78b7ab7f760f1cbc6f33892b636006b98e395"
+  },
+  {
+    "path": "实验结果/窗口游玩记录.md",
+    "bytes": 3971,
+    "sha256": "3887697d7c23b3dc7e42b51ad26b6037bb107be2f1744520a216ca6227070959"
+  },
+  {
+    "path": "报告（word+md）/任务三实验报告.docx",
+    "bytes": 212578,
+    "sha256": "6270d4b7e2b87b3e3f23e81f61dd687ae3c69903f03e1632aa283bbf22d9178a"
+  },
+  {
+    "path": "报告（word+md）/任务三实验报告.md",
+    "bytes": 12035,
+    "sha256": "524caa8260003a6a29c3bb989ad73a11fc5e108dda98080858fbe9b0394305c6"
+  }
+]
